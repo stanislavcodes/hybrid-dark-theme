@@ -5,7 +5,9 @@
   "version": "0.0.1",
   "author": "Stanislav Korchevskyi",
   "publisher": "StanislavKorchevskyi",
+  "icon": "icon.png",
   "category": "Theme",
+  "repository": "https://github.com/stanislavcodes/hybrid-dark-theme",
   "engines": {
     "vscode": "^1.60.0"
   },
