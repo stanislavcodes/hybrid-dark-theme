@@ -3,37 +3,37 @@
 ## Screenshots
 
 <div align="center">
-	<img src="https://github.com/stanislavcodes/hybrid-dark-theme/blob/main/images/vscode-window.png">
+	<img src="https://raw.githubusercontent.com/stanislavcodes/hybrid-dark-theme/main/images/vscode-window.png">
 </div>
 	
 #### Visual Studio Welcome Screen
   
   <div align="center">
-    <img src="https://github.com/stanislavcodes/hybrid-dark-theme/blob/main/images/vscode-welcome-window.png">
+    <img src="https://raw.githubusercontent.com/stanislavcodes/hybrid-dark-theme/main/images/vscode-welcome-window.png">
   </div>
 	
 #### JavaScript
   
   <div align="center">
-    <img src="https://github.com/stanislavcodes/hybrid-dark-theme/blob/main/images/js-code.png">
+    <img src="https://raw.githubusercontent.com/stanislavcodes/hybrid-dark-theme/main/images/js-code.png">
   </div>
 	
 #### HTML
   
   <div align="center">
-    <img src="https://github.com/stanislavcodes/hybrid-dark-theme/blob/main/images/html-code.png">
+    <img src="https://raw.githubusercontent.com/stanislavcodes/hybrid-dark-theme/main/images/html-code.png">
   </div>
 	
 #### CSS 
   
   <div align="center">
-    <img src="https://github.com/stanislavcodes/hybrid-dark-theme/blob/main/images/css-code.png">
+    <img src="https://raw.githubusercontent.com/stanislavcodes/hybrid-dark-theme/main/images/css-code.png">
   </div>
 	
 #### React
   
   <div align="center">
-    <img src="https://github.com/stanislavcodes/hybrid-dark-theme/blob/main/images/react-code.png">
+    <img src="https://raw.githubusercontent.com/stanislavcodes/hybrid-dark-theme/main/images/react-code.png">
   </div>
 
 ## Installation
