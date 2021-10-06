@@ -4,6 +4,7 @@
   "description": "City Lights Syntax Colors + Min Theme UI Colors = Hybrid Dark Theme",
   "version": "0.0.1",
   "author": "Stanislav Korchevskyi",
+  "publisher": "StanislavKorchevskyi",
   "category": "Theme",
   "engines": {
     "vscode": "^1.60.0"
