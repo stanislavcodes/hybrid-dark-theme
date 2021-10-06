@@ -1,0 +1,23 @@
+{
+  "name": "hybrid-dark-theme",
+  "displayName": "Hybrid Dark Theme",
+  "description": "City Lights Syntax Colors + Min Theme UI Colors = Hybrid Dark Theme",
+  "version": "0.0.1",
+  "author": "Stanislav Korchevskyi",
+  "category": "Theme",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hybrid Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hybrid Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
