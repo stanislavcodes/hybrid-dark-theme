@@ -73,7 +73,7 @@
 		"terminal.ansiBrightMagenta": "#b62d65",
 		"terminal.ansiBrightCyan": "#70e1e8",
 		"terminal.ansiBrightWhite": "#ffffff",
-		"terminal.background": "#171d23",
+		"terminal.background": "#1A1A1A",
 		"terminal.foreground": "#ffffff",
 		"terminalCursor.background": "#008B94",
 		"terminalCursor.foreground": "#008B94",
