@@ -2,6 +2,10 @@
 	"name": "Hybrid Dark Theme",
 	"type": "dark",
 	"colors": {
+		"editor.findMatchBackground": "#464646",
+		"editor.findMatchHighlightBackground": "#303030",
+		"editor.selectionBackground": "#303030",
+		"editor.selectionHighlightBackground": "#303030",
 		"editorIndentGuide.activeBackground": "#383838",
 		"editorIndentGuide.background": "#2A2A2A",
 		"editorRuler.foreground": "#2A2A2A",
@@ -114,7 +118,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#41505E"
+				"foreground": "#727272"
 			}
 		},
 		{
